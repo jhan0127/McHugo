@@ -12,9 +12,9 @@ email: ""
 #- Credit risk and fixed income
 #- Derivatives and real-options
 
-name: John Doe
+name: John J. Han
 
-role: Finance Ph.D. Candidate
+role: Marketing Ph.D. Candidate
 
 organizations:
 #- name: Queen's University (starting 2021)
